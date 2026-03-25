@@ -48,6 +48,8 @@ https://www.assemblyai.com/dashboard/login
 
 Limits can change over time, so check the dashboard for the latest values.
 
+But we’re sneaky about it — we just create multiple accounts and use multiple keys.
+
 ### Note for users in Russia
 AssemblyAI may require VPN access from Russia.  
 Useful project: https://github.com/Hidashimora/free-vpn-anti-rkn
@@ -100,6 +102,8 @@ https://www.assemblyai.com/dashboard/login
 - Либо примерно около `$50` бесплатных кредитов
 
 Лимиты со временем могут меняться, поэтому лучше перепроверять в кабинете AssemblyAI.
+
+Но мы-то хитрые жуки, поэтому создаём несколько аккаунтов и пользуемся несколькими ключами.
 
 ### Важно для пользователей из России
 Для доступа к AssemblyAI может понадобиться VPN.  
