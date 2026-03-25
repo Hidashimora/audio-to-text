@@ -1,0 +1,13 @@
+__pycache__/
+*.py[cod]
+
+build/
+dist/
+.pyi_build/
+.pyi_spec/
+*.spec
+
+AudioToText.exe
+
+results/
+uploads/
