@@ -6,7 +6,6 @@ Russian section: [jump to Russian](#russian)
 BNB Smart Chain (BEP20): `0x78187a5efaefa1a790be883492c4f0952a167c4a`  
 Tron (TRC20): `TBynQEXksZzCcx5KC52i7VyjRKvmv6DrjV`  
 Ethereum (ERC20): `0x78187a5efaefa1a790be883492c4f0952a167c4a`  
-Toncoin (TON): `UQDfs6VWbinw4lmLOWZfrc4rfchxEhCHmtR0KNJzUpJ3mmK5`
 
 ## 📑 Содержание проекта
 1. [English](#english)
